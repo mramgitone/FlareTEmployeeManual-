@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="New Employee Introductory Period"
+    EvaluatedDefinition="90 days">90 days</Variable>
+  <Variable
+    Comment=""
+    Name="Full Time Employee Classification"
+    EvaluatedDefinition="forty (40)">forty (40)</Variable>
+  <Variable
+    Name="Operating Hours"
+    Comment=""
+    EvaluatedDefinition="twenty-four (24) hours per day, seven (7) days per week">twenty-four (24) hours per day, seven (7) days per week</Variable>
+  <Variable
+    Name="Standard Workweek Hours"
+    Comment=""
+    EvaluatedDefinition="40 hours">40 hours</Variable>
+  <Variable
+    Name="Pay Period"
+    Comment=""
+    EvaluatedDefinition="12:00 a.m. each Sunday and end at 11:59 p.m. each Saturday night">12:00 a.m. each Sunday and end at 11:59 p.m. each Saturday night</Variable>
+  <Variable
+    Name="Payday"
+    Comment=""
+    EvaluatedDefinition="Friday">Friday</Variable>
+  <Variable
+    Name="Paid Company Holidays"
+    Comment=""
+    EvaluatedDefinition="New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Friday after Thanksgiving Day, Christmas Eve, and Christmas Day">New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day, Friday after Thanksgiving Day, Christmas Eve, and Christmas Day</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2016-02-16T22:11:15.8176589-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+</CatapultVariableSet>

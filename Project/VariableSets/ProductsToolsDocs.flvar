@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="Title"
+    Comment=""
+    OriginalName="PDFGuideTitle"
+    EvaluatedDefinition="Employee Handbook">Employee Handbook</Variable>
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot">1.0</Variable>
+  <Variable
+    Name="Time Tracking Software"
+    Comment=""
+    EvaluatedDefinition="Time Sheet Software">Time Sheet Software</Variable>
+  <Variable
+    Name="Summary Plan Descriptions"
+    Comment=""
+    EvaluatedDefinition="Summary Plan Descriptions (SPD) and Plan Documents">Summary Plan Descriptions (SPD) and Plan Documents</Variable>
+</CatapultVariableSet>

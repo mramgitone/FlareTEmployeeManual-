@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="Review Committee"
+    Comment=""
+    EvaluatedDefinition="Executive Review Committee">Executive Review Committee</Variable>
+  <Variable
+    Name="Human Resources"
+    Comment=""
+    EvaluatedDefinition="Human Resources">Human Resources</Variable>
+</CatapultVariableSet>
